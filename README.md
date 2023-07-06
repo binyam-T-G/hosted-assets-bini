@@ -1,0 +1,2 @@
+# hosted-assets-bini
+Assets
